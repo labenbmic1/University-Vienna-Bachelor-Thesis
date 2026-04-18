@@ -1,0 +1,29 @@
+xtick.top:              True   
+xtick.bottom:           True    
+ytick.right:            True
+ytick.left:             True
+
+lines.linestyle:        -
+lines.linewidth:        0.5
+lines.marker:           x
+lines.markersize:       1
+lines.markeredgewidth:  0.25
+
+errorbar.capsize:       1
+
+legend.frameon:         False
+legend.loc:             best 
+
+grid.linestyle:         --
+xtick.minor.visible:    True 
+ytick.minor.visible:    True
+xtick.direction:        in
+ytick.direction:        in
+figure.dpi:             300#1200
+figure.figsize:         6.472, 3.236
+savefig.bbox:           tight
+savefig.pad_inches:     0.05
+
+text.usetex:            True
+font.family:            Latin Modern Roman
+font.size:              11
