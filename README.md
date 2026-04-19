@@ -1,0 +1,1 @@
+The main_preprocessing notebook only pre-processes the data and stores it again in a txt file. The main programs for analyzations are main-RBM and main-GD with the fit models defined in fit_models.py.
